@@ -1,0 +1,2 @@
+/Users/deepakkumar/Desktop/picker view/UIPickerView/Classes/UIPickerViewAppDelegate.m:32: warning: property 'mlable' requires method '-mlable' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/deepakkumar/Desktop/picker view/UIPickerView/Classes/UIPickerViewAppDelegate.m:32: warning: property 'mlable' requires the method 'setMlable:' to be defined - use @synthesize, @dynamic or provide a method implementation
